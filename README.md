@@ -1,15 +1,3 @@
-# iOS Architect Crash Course 2.0 • Jan 31st-Feb 6th 2022 • EssentialDeveloper.com
-
-https://www.essentialdeveloper.com/ios-architect-crash-course/jan-2022-1dfy
-
-It's time to put your skills to the test!
-
-This is the project used in the second lecture of the iOS Architect Crash Course 2.0.
-
-Watch the lecture and implement what you learned into this project to practice applying architectural patterns while refactoring legacy code into clean code with clean architecture.
-
----
-
 ## Instructions
 
 1) Open the `iACC.xcodeproj` project on Xcode 13.0 or higher.
